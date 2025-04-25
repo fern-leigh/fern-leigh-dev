@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+.firebase/
+.firebase/fern-leigh-dev-f2186/functions/node_modules
 /.pnp
 .pnp.*
 .yarn/*
